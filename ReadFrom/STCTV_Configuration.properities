@@ -1,0 +1,6 @@
+browser=Chrome
+
+URL=https://subscribe.stctv.com/sa-en
+Filepath=.\\ReadFrom
+Filename=TestData.xlsx
+Sheetindex=0
